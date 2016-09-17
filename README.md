@@ -27,3 +27,9 @@ Here is a weekly schedule of what I need to do. I'm horrible at organization so 
 - [x] Verify the functionality of the application
 - [ ] Figure out the Pom.xml file
 - [ ] Test that everything works
+
+##### Engineering Design Methodology
+
+- [ ] Look over Engineering Needs and House of Quality
+- [ ] Create a House of Quality Sheet
+- [ ] Write a short written summary of both sections of the paper
