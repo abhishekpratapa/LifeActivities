@@ -14,7 +14,7 @@ Here is a weekly schedule of what I need to do. I'm horrible at organization so 
 
 ##### Dynamic Systems and Control
 
-- [ ] Ask where the link for the Box account is
+- [x] Ask where the link for the Box account is
 - [ ] Look over the DSC Homework
 - [ ] Look at the Box to find the homework problems on the books listed
 - [ ] Contact people for help, on the homework
