@@ -6,7 +6,7 @@ Here is a weekly schedule of what I need to do. I'm horrible at organization so 
 #### Personal
 ##### Laundry
 
-- [ ] <span style="color:blue">Washing Machine</span>
+- [ ] Washing Machine
 - [ ] Dryer
 - [ ] Fold Clothes
 
