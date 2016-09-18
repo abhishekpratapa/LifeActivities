@@ -15,19 +15,19 @@ Here is a weekly schedule of what I need to do. I'm horrible at organization so 
 ##### Dynamic Systems and Control
 
 - [x] Ask where the link for the Box account is
-- [ ] Look over the DSC Homework
-- [ ] Look at the Box to find the homework problems on the books listed
+- [x] Look over the DSC Homework
+- [x] Look at the Box to find the homework problems on the books listed
 - [ ] Contact people for help, on the homework
 - [ ] Skim over the homework (prototype)
 - [ ] Email TA your Prototype to ask him if you are doing it right
 
-##### Modern Web Apps
+##### Modern Web Apps (Completed)
 
 - [x] Create BitBucket account for the class
 - [x] SSH rsa key for BitBucket
 - [x] Verify the functionality of the application
-- [ ] Figure out the Pom.xml file
-- [ ] Test that everything works
+- [x] Figure out the Pom.xml file
+- [x] Test that everything works
 
 ##### Engineering Design Methodology
 
